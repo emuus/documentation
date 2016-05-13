@@ -32,7 +32,7 @@ To change the log level of the web service:
 
   .. code-block:: shell
 
-    touch /opt/GlassFish/glassfish/domains/uforge/applications/uForgeWebService .reload
+    touch /opt/GlassFish/glassfish/domains/uforge/applications/uForgeWebService.reload
 
   4. Restart the Web Service
 
