@@ -14,17 +14,17 @@ Exporting
 
 To export an existing appliance:
 
-	1. Go to your ``Appliance Library``
+	1. Go to your ``Appliance Library``.
 
-	2. Click on the ``export`` icon on the right hand side of the appliance template in question to export
+	2. Click on the ``export`` icon on the right hand side of the appliance template in question to export.
 
 	.. image :: /images/export-appliance.png
 
-	3. This will start the export process.  
+	3. The export progress will be shown.  
 
 	.. image :: /images/exporting-appliance.png
 
-	4. Once the export is complete, you will be prompted to download the archive file
+	4. Once the export is complete, you will be prompted to download the archive file.
 
 	.. image :: /images/export-download.png
 
@@ -35,15 +35,17 @@ Importing
 
 To import an archive:
 
-	1. Go to your ``Appliance Library`` 
+	1. Go to your ``Appliance Library``. 
 
-	2. Click on the ``import`` button at the top right hand side of the view
+	2. Click on the ``import`` button at the top right hand side of the view.
 
 	.. image :: /images/import-appliance.png
 
-	3. This opens up a file browser, choose the archive to upload
+	3. A number of options are proposed. Select the method of import and click ``import``.
 
-	4. This will start the import process.  
+	.. image :: /images/import-options.png
+
+	4. This opens up a file browser, choose the archive to upload. This will start the import process. The import progress will be shown.  
 
 	.. image :: /images/importing-appliance.png
 
