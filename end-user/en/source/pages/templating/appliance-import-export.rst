@@ -41,11 +41,11 @@ To import an archive:
 
 	.. image :: /images/import-appliance.png
 
-	3. A number of options are proposed. Select the method of import and click ``import``.
+	3. A number of options are proposed. Select the method of import and click the folder icon to select the archive to import.
 
-	.. image :: /images/import-options.png
+	.. image :: /images/import-options2.png
 
-	4. This opens up a file browser, choose the archive to upload. This will start the import process. The import progress will be shown.  
+	4. Click ``import``. This will start the import process. The import progress will be shown.  
 
 	.. image :: /images/importing-appliance.png
 
