@@ -386,3 +386,4 @@ The following is a concrete example to begin the population of Ubuntu 10.04 64bi
 	11. Create OS profile based on packages (minimal, server, etc.)::
 
 		$ /opt/UShareSoft/uforge/bin/distro_sorter.sh -d Ubuntu -v 10.04 -a x86_64
+
